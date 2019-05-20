@@ -2,7 +2,7 @@
 
 
 
-The provided codes are developed firstly in spring of 2016 then improved in the winter of 2016
+The provided codes are developed firstly in the spring of 2016 then improved in the winter of 2016
 
 
 Basic codes for reproducing the results in the paper:

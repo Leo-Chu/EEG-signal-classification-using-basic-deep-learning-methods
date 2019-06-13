@@ -16,7 +16,7 @@ learning methods with random forest and voting classifiers: Insights from restin
 
 If you get any question for our codes, please contact: leochu@sjtu.edu.cn or uestcahcl@gmail.com;
 
-We are glad to help you processing massive treaming EEG data.
+We are glad to help you processing massive streaming EEG data.
 
 In this summer, we will provide an advanced verion of the codes, including some new methods we proposed to improve the generalization and 
 representaion of the deep learning methods. The paper will be also renewed. 
